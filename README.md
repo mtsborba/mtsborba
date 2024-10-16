@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Borba 🤙
 
-#### Atualmente estudando Desenvolvimento de Sistemas no SENAI
+#### Formado como Técnico em Desenvolvimento de Sistemas no SENAI
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leandro-de-borba-8152a7279/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mborba/)
 
